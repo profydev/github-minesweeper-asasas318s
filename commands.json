@@ -1,3 +1,7 @@
 {
-  "commands": []
+  "commands": [
+    "clear A3",
+    "Flag C3",
+    "Flag D2"
+  ]
 }
